@@ -1,2 +1,2 @@
 # kgs-threadpools
-thread pools example app
+thread pools example app for KGS
